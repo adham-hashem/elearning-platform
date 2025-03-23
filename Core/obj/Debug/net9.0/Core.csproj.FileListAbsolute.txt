@@ -1,0 +1,12 @@
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\bin\Debug\net9.0\Core.deps.json
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\bin\Debug\net9.0\Core.dll
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\bin\Debug\net9.0\Core.pdb
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\Core.dll
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\refint\Core.dll
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\Core.pdb
+D:\New folder\PROGRAMMING\ASP.Net Projects\ElearningPlatform\Core\obj\Debug\net9.0\ref\Core.dll
